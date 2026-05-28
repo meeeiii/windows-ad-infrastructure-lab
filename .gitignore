@@ -1,0 +1,15 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Office lock / temp files
+~$*
+*.tmp
+
+# Local secrets
+.env
+.env.local
+credentials
